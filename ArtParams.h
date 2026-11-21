@@ -2,6 +2,7 @@
 #include <windows.h>
 #include <cstdint>
 #include <cstdio>
+#include <cstddef>
 #include <cstdarg>
 
 // ASM converted from SPU to CBU / Parameter (x64) from art/MessageParams.h.
